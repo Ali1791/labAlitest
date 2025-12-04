@@ -17,6 +17,12 @@ public class JavaApplication36 {
         // TODO code application logic here
         System.out.print("ali");
                 System.out.print("ali");
+                                System.out.print("ali");
+
+                                                System.out.print("ali");
+
+                                                                System.out.print("ali");
+
 
     }
     
