@@ -16,6 +16,8 @@ public class JavaApplication36 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("ali");
+                System.out.print("ali");
+
     }
     
 }
